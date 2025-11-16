@@ -174,5 +174,9 @@
   {
     "label": "Outrun",
     "value": "outrun"
+  },
+  {
+    "label": "Catppuccin",
+    "value": "catppuccin_mocha"
   }
 ]
