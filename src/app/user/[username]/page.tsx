@@ -12,7 +12,7 @@ export default async function Home(props: {
           <h1 className="text-5xl font-semibold tracking-tighter">
             GitHub Stats for&nbsp;
             <a
-              href={`https://github.com/${params.username}`}
+              href={`https://githubcard.com/${params.username}`}
               target="blank"
               rel="noopener noreferrer"
               className="underline"
