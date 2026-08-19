@@ -16,9 +16,9 @@ export const useGithubStats = (data: Stats) => {
     const encodedHideBorder = encodeURIComponent(hideBorder ?? "");
     const encodedCountPrivate = encodeURIComponent(countPrivate ?? "");
 
-    const stats = `https://github-readme-stats.vercel.app/api?username=${encodedUsername}&theme=${encodedTheme}&show_icons=true&hide_border=${encodedHideBorder}&count_private=${encodedCountPrivate}`;
-    const topLanguages = `https://github-readme-stats.vercel.app/api/top-langs/?username=${encodedUsername}&theme=${encodedTheme}&show_icons=true&hide_border=${encodedHideBorder}&layout=compact`;
-    const streak = `https://streak-stats.demolab.com?user=${encodedUsername}&theme=${encodedTheme}&hide_border=${encodedHideBorder}`;
+    const stats = `https://github-readme-stats-alok-2c66.vercel.app/api?username=${encodedUsername}&theme=${encodedTheme}&show_icons=true&hide_border=${encodedHideBorder}&count_private=${encodedCountPrivate}`;
+    const topLanguages = `https://github-readme-stats-alok-2c66.vercel.app/api/top-langs/?username=${encodedUsername}&theme=${encodedTheme}&show_icons=true&hide_border=${encodedHideBorder}&layout=compact`;
+    const streak = `https://github-readme-streak-stats-alok-2c66.vercel.app/api/?user=${encodedUsername}&theme=${encodedTheme}&hide_border=${encodedHideBorder}`;
 
     return { stats, topLanguages, streak };
   }, [username, theme, hideBorder, countPrivate]);

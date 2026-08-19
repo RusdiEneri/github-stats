@@ -21,9 +21,9 @@ This website makes it easier for you to generate beautiful stats for your GitHub
 
 ## Stats Available
 
-<img width=400 src='https://github-readme-stats.vercel.app/api?username=joshxfi&theme=vue-dark&show_icons=true&hide_border=true&count_private=true' />
-<img width=400 src='https://streak-stats.demolab.com?user=joshxfi&theme=vue-dark&hide_border=true' />
-<img width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=joshxfi&theme=vue-dark&show_icons=true&hide_border=true&layout=compact' />
+<img width=400 src='https://github-readme-stats-alok-2c66.vercel.app/api?username=joshxfi&theme=vue-dark&show_icons=true&hide_border=true&count_private=true' />
+<img width=400 src='https://github-readme-streak-stats-alok-2c66.vercel.app/api/?user=joshxfi&theme=vue-dark&hide_border=true' />
+<img width=400 src='https://github-readme-stats-alok-2c66.vercel.app/api/top-langs/?username=joshxfi&theme=vue-dark&show_icons=true&hide_border=true&layout=compact' />
 
 ## License
 
